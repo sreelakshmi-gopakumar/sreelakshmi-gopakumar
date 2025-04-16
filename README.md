@@ -26,11 +26,6 @@ Welcome to my GitHub! I’m a cloud infrastructure engineer with hands-on experi
 
 ---
 
-## 📊 GitHub Statistics
-![Sreelakshmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sreelakshmigopakumar1998&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sreelakshmigopakumar1998&layout=compact&theme=radical)
-
----
 
 ## 🏆 Achievements
 - 🎖️ **ACE Award** – Accenture Celebrates Excellence
