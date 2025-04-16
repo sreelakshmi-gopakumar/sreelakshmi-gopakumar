@@ -21,7 +21,7 @@ Welcome to my GitHub! I’m a cloud infrastructure engineer with hands-on experi
 ---
 
 ## 🌐 Connect with Me
-- 📫 **Email**: svattap@iu.edu  
+- 📫 **Email**: sreelakshmivg06@gmail.com / svattap@iu.edu  
 - 💼 **LinkedIn**: [linkedin.com/in/sreelakshmi-gopakumar06](https://linkedin.com/in/sreelakshmi-gopakumar06)
 
 ---
